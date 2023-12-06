@@ -95,7 +95,7 @@ export const experiences = [
         company_name: "Golden Spoon",
         icon: goldenspoon,
         iconBg: "#da040d",
-        date: "March 2020 - April 2021",
+        date: "March 2017 - April 2018",
         points: [
             "Managing store operations at Golden Spoon, Las Vegas, NV, ensuring optimal readiness and organization of essential assets.",
             "Streamlining inventory processes to maintain efficient stock levels for store functionality.",
