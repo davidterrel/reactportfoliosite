@@ -58,11 +58,6 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
         imageUrl: motion,
         name: "Motion",
         type: "Animation",
@@ -88,25 +83,10 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
-    {
-        imageUrl: sass,
-        name: "Sass",
-        type: "Frontend",
-    },
-    {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
     },
-    {
-        imageUrl: typescript,
-        name: "TypeScript",
-        type: "Frontend",
-    }
 ];
 
 export const experiences = [
@@ -129,10 +109,10 @@ export const experiences = [
         iconBg: "#e93a43",
         date: "Mar 2018 - Nov 2020",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Managed vehicle logistics at Gold Coast, Las Vegas, NV, ensuring efficient organization and accessibility of guest vehicles.",
+            "Streamlined parking processes to optimize space utilization and reduce guest wait times, reflecting efficient resource management.",
+            "Upheld high standards of guest service, fostering a welcoming and professional environment, parallel to customer satisfaction goals in software development.",
+            "Coordinated effectively with team members to handle peak hour rushes, mirroring agile collaboration and teamwork essential in software projects.",
         ],
     },
     {
@@ -142,10 +122,10 @@ export const experiences = [
         iconBg: "#040404",
         date: "Mar 2022 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Led Amazon team to a #1 national ranking by pioneering strategies that enhanced handling times and package delivery success rates, reflecting skills in process optimization and user satisfaction akin to software development.",
+            "Enhanced package delivery success by 31% through innovative problem-solving and consistent delivery partner coordination.",
+            "Streamlined resolution of delivery challenges, reducing problem-solving time from 15 to 9 minutes, demonstrating efficiency improvement comparable to optimizing code and reducing runtime in software applications.",
+            "Utilized critical thinking for daily resolution of diverse, complex issues, akin to software problem-solving.",
         ],
     },
 ];

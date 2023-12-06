@@ -14,7 +14,7 @@ const Projects = () => {
             </h1>
 
             <p className='text-slate-500 mt-2 leading-relaxed'>
-                I've embarked on numerous projects over the years, focusing on user-centric applications like 'Strangers Things', an efficient To-Do List, and a robust e-commerce platform, all developed with React. Many are open-source, so feel free to dive into the codebase and add your ideas for further enhancements. Your collaboration is highly valued!
+                I've embarked on numerous projects over the years, focusing on user-centric applications like 'Strangers Things', an efficient To-Do List, and a robust e-commerce platform, all developed with React.
             </p>
 
             <div className='flex flex-wrap my-20 gap-16'>
